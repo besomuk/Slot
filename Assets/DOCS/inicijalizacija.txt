@@ -1,0 +1,4 @@
+1. dodati Game Manager
+2. dodati Tockove
+3. Tockove dodati u Game Manager:Wheels
+4. U Game Manageru upisati redosled simbola na tocku ( jednu sekvencu od 7 )

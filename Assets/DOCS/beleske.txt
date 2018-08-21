@@ -1,0 +1,11 @@
+Ostale kombinacije nisam radio jer nisam uspeo da pronadjem po kom principu se postavljaju.
+
+
+wheel_X_SymbolOrder 
+-------------------
+	Drzi raspored naziva simbola na jednom tocku.
+	Tipa je Symbols, a Symbols je enum, koji sadrzi sve nazive simbola u igri.
+	Ovi nazivi se koriste za mapiranje symbolRow1, symbolRow2 i symbolRow3,
+	koji sluze za odredjivanje dobitka, kao i za prosledjivanje Wheel.cs 
+	skripti koja pokrece tocak. 
+	
